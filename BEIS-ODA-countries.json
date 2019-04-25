@@ -1,755 +1,1255 @@
 {
   "AFGHANISTAN": {
-    "id": "AF"
+    "id": "AF",
+    "region": "",
+    "regionId": ""
   },
   "ÅLAND ISLANDS": {
-    "id": "AX"
+    "id": "AX",
+    "region": "",
+    "regionId": ""
   },
   "ALBANIA": {
-    "id": "AL"
+    "id": "AL",
+    "region": "",
+    "regionId": ""
   },
   "ALGERIA": {
-    "id": "DZ"
+    "id": "DZ",
+    "region": "",
+    "regionId": ""
   },
   "AMERICAN SAMOA": {
-    "id": "AS"
+    "id": "AS",
+    "region": "",
+    "regionId": ""
   },
   "ANDORRA": {
-    "id": "AD"
+    "id": "AD",
+    "region": "",
+    "regionId": ""
   },
   "ANGOLA": {
-    "id": "AO"
+    "id": "AO",
+    "region": "",
+    "regionId": ""
   },
   "ANGUILLA": {
-    "id": "AI"
+    "id": "AI",
+    "region": "",
+    "regionId": ""
   },
   "ANTARCTICA": {
-    "id": "AQ"
+    "id": "AQ",
+    "region": "",
+    "regionId": ""
   },
   "ANTIGUA AND BARBUDA": {
-    "id": "AG"
+    "id": "AG",
+    "region": "",
+    "regionId": ""
   },
   "ARGENTINA": {
-    "id": "AR"
+    "id": "AR",
+    "region": "",
+    "regionId": ""
   },
   "ARMENIA": {
-    "id": "AM"
+    "id": "AM",
+    "region": "",
+    "regionId": ""
   },
   "ARUBA": {
-    "id": "AW"
+    "id": "AW",
+    "region": "",
+    "regionId": ""
   },
   "AUSTRALIA": {
-    "id": "AU"
+    "id": "AU",
+    "region": "",
+    "regionId": ""
   },
   "AUSTRIA": {
-    "id": "AT"
+    "id": "AT",
+    "region": "",
+    "regionId": ""
   },
   "AZERBAIJAN": {
-    "id": "AZ"
+    "id": "AZ",
+    "region": "",
+    "regionId": ""
   },
   "BAHAMAS (THE)": {
-    "id": "BS"
+    "id": "BS",
+    "region": "",
+    "regionId": ""
   },
   "BAHRAIN": {
-    "id": "BH"
+    "id": "BH",
+    "region": "",
+    "regionId": ""
   },
   "BANGLADESH": {
-    "id": "BD"
+    "id": "BD",
+    "region": "",
+    "regionId": ""
   },
   "BARBADOS": {
-    "id": "BB"
+    "id": "BB",
+    "region": "",
+    "regionId": ""
   },
   "BELARUS": {
-    "id": "BY"
+    "id": "BY",
+    "region": "",
+    "regionId": ""
   },
   "BELGIUM": {
-    "id": "BE"
+    "id": "BE",
+    "region": "",
+    "regionId": ""
   },
   "BELIZE": {
-    "id": "BZ"
+    "id": "BZ",
+    "region": "",
+    "regionId": ""
   },
   "BENIN": {
-    "id": "BJ"
+    "id": "BJ",
+    "region": "",
+    "regionId": ""
   },
   "BERMUDA": {
-    "id": "BM"
+    "id": "BM",
+    "region": "",
+    "regionId": ""
   },
   "BHUTAN": {
-    "id": "BT"
+    "id": "BT",
+    "region": "",
+    "regionId": ""
   },
   "BOLIVIA (PLURINATIONAL STATE OF)": {
-    "id": "BO"
+    "id": "BO",
+    "region": "",
+    "regionId": ""
   },
   "BONAIRE, SAINT EUSTATIUS AND SABA": {
     "id": "BQ"
   },
   "BOSNIA AND HERZEGOVINA": {
-    "id": "BA"
+    "id": "BA",
+    "region": "",
+    "regionId": ""
   },
   "BOTSWANA": {
-    "id": "BW"
+    "id": "BW",
+    "region": "",
+    "regionId": ""
   },
   "BOUVET ISLAND": {
-    "id": "BV"
+    "id": "BV",
+    "region": "",
+    "regionId": ""
   },
   "BRAZIL": {
-    "id": "BR"
+    "id": "BR",
+    "region": "",
+    "regionId": ""
   },
   "BRITISH INDIAN OCEAN TERRITORY (THE)": {
-    "id": "IO"
+    "id": "IO",
+    "region": "",
+    "regionId": ""
   },
   "BRUNEI DARUSSALAM": {
-    "id": "BN"
+    "id": "BN",
+    "region": "",
+    "regionId": ""
   },
   "BULGARIA": {
-    "id": "BG"
+    "id": "BG",
+    "region": "",
+    "regionId": ""
   },
   "BURKINA FASO": {
-    "id": "BF"
+    "id": "BF",
+    "region": "",
+    "regionId": ""
   },
   "BURUNDI": {
-    "id": "BI"
+    "id": "BI",
+    "region": "",
+    "regionId": ""
   },
   "CAMBODIA": {
-    "id": "KH"
+    "id": "KH",
+    "region": "",
+    "regionId": ""
   },
   "CAMEROON": {
-    "id": "CM"
+    "id": "CM",
+    "region": "",
+    "regionId": ""
   },
   "CANADA": {
-    "id": "CA"
+    "id": "CA",
+    "region": "",
+    "regionId": ""
   },
   "CAPE VERDE": {
-    "id": "CV"
+    "id": "CV",
+    "region": "",
+    "regionId": ""
   },
   "CAYMAN ISLANDS (THE)": {
-    "id": "KY"
+    "id": "KY",
+    "region": "",
+    "regionId": ""
   },
   "CENTRAL AFRICAN REPUBLIC (THE)": {
-    "id": "CF"
+    "id": "CF",
+    "region": "",
+    "regionId": ""
   },
   "CHAD": {
-    "id": "TD"
+    "id": "TD",
+    "region": "",
+    "regionId": ""
   },
   "CHILE": {
-    "id": "CL"
+    "id": "CL",
+    "region": "",
+    "regionId": ""
   },
   "CHINA": {
-    "id": "CN"
+    "id": "CN",
+    "region": "",
+    "regionId": ""
   },
   "CHRISTMAS ISLAND": {
-    "id": "CX"
+    "id": "CX",
+    "region": "",
+    "regionId": ""
   },
   "COCOS (KEELING) ISLANDS (THE)": {
-    "id": "CC"
+    "id": "CC",
+    "region": "",
+    "regionId": ""
   },
   "COLOMBIA": {
-    "id": "CO"
+    "id": "CO",
+    "region": "",
+    "regionId": ""
   },
   "COMOROS (THE)": {
-    "id": "KM"
+    "id": "KM",
+    "region": "",
+    "regionId": ""
   },
   "CONGO (THE)": {
-    "id": "CG"
+    "id": "CG",
+    "region": "",
+    "regionId": ""
   },
   "CONGO, THE DEMOCRATIC REPUBLIC OF THE": {
-    "id": "CD"
+    "id": "CD",
+    "region": "",
+    "regionId": ""
   },
   "COOK ISLANDS (THE)": {
-    "id": "CK"
+    "id": "CK",
+    "region": "",
+    "regionId": ""
   },
   "COSTA RICA": {
-    "id": "CR"
+    "id": "CR",
+    "region": "",
+    "regionId": ""
   },
   "CÔTE D’IVOIRE": {
-    "id": "CI"
+    "id": "CI",
+    "region": "",
+    "regionId": ""
   },
   "CROATIA": {
-    "id": "HR"
+    "id": "HR",
+    "region": "",
+    "regionId": ""
   },
   "CUBA": {
-    "id": "CU"
+    "id": "CU",
+    "region": "",
+    "regionId": ""
   },
   "CURAÇAO": {
-    "id": "CW"
+    "id": "CW",
+    "region": "",
+    "regionId": ""
   },
   "CYPRUS": {
-    "id": "CY"
+    "id": "CY",
+    "region": "",
+    "regionId": ""
   },
   "CZECH REPUBLIC (THE)": {
-    "id": "CZ"
+    "id": "CZ",
+    "region": "",
+    "regionId": ""
   },
   "DENMARK": {
-    "id": "DK"
+    "id": "DK",
+    "region": "",
+    "regionId": ""
   },
   "DJIBOUTI": {
-    "id": "DJ"
+    "id": "DJ",
+    "region": "",
+    "regionId": ""
   },
   "DOMINICA": {
-    "id": "DM"
+    "id": "DM",
+    "region": "",
+    "regionId": ""
   },
   "DOMINICAN REPUBLIC (THE)": {
-    "id": "DO"
+    "id": "DO",
+    "region": "",
+    "regionId": ""
   },
   "ECUADOR": {
-    "id": "EC"
+    "id": "EC",
+    "region": "",
+    "regionId": ""
   },
   "EGYPT": {
-    "id": "EG"
+    "id": "EG",
+    "region": "",
+    "regionId": ""
   },
   "EL SALVADOR": {
-    "id": "SV"
+    "id": "SV",
+    "region": "",
+    "regionId": ""
   },
   "EQUATORIAL GUINEA": {
-    "id": "GQ"
+    "id": "GQ",
+    "region": "",
+    "regionId": ""
   },
   "ERITREA": {
-    "id": "ER"
+    "id": "ER",
+    "region": "",
+    "regionId": ""
   },
   "ESTONIA": {
-    "id": "EE"
+    "id": "EE",
+    "region": "",
+    "regionId": ""
   },
   "ETHIOPIA": {
-    "id": "ET"
+    "id": "ET",
+    "region": "",
+    "regionId": ""
   },
   "FALKLAND ISLANDS (THE) [MALVINAS]": {
-    "id": "FK"
+    "id": "FK",
+    "region": "",
+    "regionId": ""
   },
   "FAROE ISLANDS (THE)": {
-    "id": "FO"
+    "id": "FO",
+    "region": "",
+    "regionId": ""
   },
   "FIJI": {
-    "id": "FJ"
+    "id": "FJ",
+    "region": "",
+    "regionId": ""
   },
   "FINLAND": {
-    "id": "FI"
+    "id": "FI",
+    "region": "",
+    "regionId": ""
   },
   "FRANCE": {
-    "id": "FR"
+    "id": "FR",
+    "region": "",
+    "regionId": ""
   },
   "FRENCH GUIANA": {
-    "id": "GF"
+    "id": "GF",
+    "region": "",
+    "regionId": ""
   },
   "FRENCH POLYNESIA": {
-    "id": "PF"
+    "id": "PF",
+    "region": "",
+    "regionId": ""
   },
   "FRENCH SOUTHERN TERRITORIES (THE)": {
-    "id": "TF"
+    "id": "TF",
+    "region": "",
+    "regionId": ""
   },
   "GABON": {
-    "id": "GA"
+    "id": "GA",
+    "region": "",
+    "regionId": ""
   },
   "GAMBIA (THE)": {
-    "id": "GM"
+    "id": "GM",
+    "region": "",
+    "regionId": ""
   },
   "GEORGIA": {
-    "id": "GE"
+    "id": "GE",
+    "region": "",
+    "regionId": ""
   },
   "GERMANY": {
-    "id": "DE"
+    "id": "DE",
+    "region": "",
+    "regionId": ""
   },
   "GHANA": {
-    "id": "GH"
+    "id": "GH",
+    "region": "",
+    "regionId": ""
   },
   "GIBRALTAR": {
-    "id": "GI"
+    "id": "GI",
+    "region": "",
+    "regionId": ""
   },
   "GREECE": {
-    "id": "GR"
+    "id": "GR",
+    "region": "",
+    "regionId": ""
   },
   "GREENLAND": {
-    "id": "GL"
+    "id": "GL",
+    "region": "",
+    "regionId": ""
   },
   "GRENADA": {
-    "id": "GD"
+    "id": "GD",
+    "region": "",
+    "regionId": ""
   },
   "GUADELOUPE": {
-    "id": "GP"
+    "id": "GP",
+    "region": "",
+    "regionId": ""
   },
   "GUAM": {
-    "id": "GU"
+    "id": "GU",
+    "region": "",
+    "regionId": ""
   },
   "GUATEMALA": {
-    "id": "GT"
+    "id": "GT",
+    "region": "",
+    "regionId": ""
   },
   "GUERNSEY": {
-    "id": "GG"
+    "id": "GG",
+    "region": "",
+    "regionId": ""
   },
   "GUINEA": {
-    "id": "GN"
+    "id": "GN",
+    "region": "",
+    "regionId": ""
   },
   "GUINEA-BISSAU": {
-    "id": "GW"
+    "id": "GW",
+    "region": "",
+    "regionId": ""
   },
   "GUYANA": {
-    "id": "GY"
+    "id": "GY",
+    "region": "",
+    "regionId": ""
   },
   "HAITI": {
-    "id": "HT"
+    "id": "HT",
+    "region": "",
+    "regionId": ""
   },
   "HEARD ISLAND AND MCDONALD ISLANDS": {
-    "id": "HM"
+    "id": "HM",
+    "region": "",
+    "regionId": ""
   },
   "HOLY SEE (THE)": {
-    "id": "VA"
+    "id": "VA",
+    "region": "",
+    "regionId": ""
   },
   "HONDURAS": {
-    "id": "HN"
+    "id": "HN",
+    "region": "",
+    "regionId": ""
   },
   "HONG KONG": {
-    "id": "HK"
+    "id": "HK",
+    "region": "",
+    "regionId": ""
   },
   "HUNGARY": {
-    "id": "HU"
+    "id": "HU",
+    "region": "",
+    "regionId": ""
   },
   "ICELAND": {
-    "id": "IS"
+    "id": "IS",
+    "region": "",
+    "regionId": ""
   },
   "INDIA": {
-    "id": "IN"
+    "id": "IN",
+    "region": "",
+    "regionId": ""
   },
   "INDONESIA": {
-    "id": "ID"
+    "id": "ID",
+    "region": "",
+    "regionId": ""
   },
   "IRAN (ISLAMIC REPUBLIC OF)": {
-    "id": "IR"
+    "id": "IR",
+    "region": "",
+    "regionId": ""
   },
   "IRAQ": {
-    "id": "IQ"
+    "id": "IQ",
+    "region": "",
+    "regionId": ""
   },
   "IRELAND": {
-    "id": "IE"
+    "id": "IE",
+    "region": "",
+    "regionId": ""
   },
   "ISLE OF MAN": {
-    "id": "IM"
+    "id": "IM",
+    "region": "",
+    "regionId": ""
   },
   "ISRAEL": {
-    "id": "IL"
+    "id": "IL",
+    "region": "",
+    "regionId": ""
   },
   "ITALY": {
-    "id": "IT"
+    "id": "IT",
+    "region": "",
+    "regionId": ""
   },
   "JAMAICA": {
-    "id": "JM"
+    "id": "JM",
+    "region": "",
+    "regionId": ""
   },
   "JAPAN": {
-    "id": "JP"
+    "id": "JP",
+    "region": "",
+    "regionId": ""
   },
   "JERSEY": {
-    "id": "JE"
+    "id": "JE",
+    "region": "",
+    "regionId": ""
   },
   "JORDAN": {
-    "id": "JO"
+    "id": "JO",
+    "region": "",
+    "regionId": ""
   },
   "KAZAKHSTAN": {
-    "id": "KZ"
+    "id": "KZ",
+    "region": "",
+    "regionId": ""
   },
   "KENYA": {
-    "id": "KE"
+    "id": "KE",
+    "region": "",
+    "regionId": ""
   },
   "KIRIBATI": {
-    "id": "KI"
+    "id": "KI",
+    "region": "",
+    "regionId": ""
   },
   "KOREA (DEMOCRATIC PEOPLE’S REPUBLIC OF)": {
-    "id": "KP"
+    "id": "KP",
+    "region": "",
+    "regionId": ""
   },
   "KOREA (REPUBLIC OF)": {
-    "id": "KR"
+    "id": "KR",
+    "region": "",
+    "regionId": ""
   },
   "KOSOVO": {
-    "id": "XK"
+    "id": "XK",
+    "region": "",
+    "regionId": ""
   },
   "KUWAIT": {
-    "id": "KW"
+    "id": "KW",
+    "region": "",
+    "regionId": ""
   },
   "KYRGYZSTAN": {
-    "id": "KG"
+    "id": "KG",
+    "region": "",
+    "regionId": ""
   },
   "LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE)": {
-    "id": "LA"
+    "id": "LA",
+    "region": "",
+    "regionId": ""
   },
   "LATVIA": {
-    "id": "LV"
+    "id": "LV",
+    "region": "",
+    "regionId": ""
   },
   "LEBANON": {
-    "id": "LB"
+    "id": "LB",
+    "region": "",
+    "regionId": ""
   },
   "LESOTHO": {
-    "id": "LS"
+    "id": "LS",
+    "region": "",
+    "regionId": ""
   },
   "LIBERIA": {
-    "id": "LR"
+    "id": "LR",
+    "region": "",
+    "regionId": ""
   },
   "LIBYAN ARAB JAMAHIRIYA": {
-    "id": "LY"
+    "id": "LY",
+    "region": "",
+    "regionId": ""
   },
   "LIECHTENSTEIN": {
-    "id": "LI"
+    "id": "LI",
+    "region": "",
+    "regionId": ""
   },
   "LITHUANIA": {
-    "id": "LT"
+    "id": "LT",
+    "region": "",
+    "regionId": ""
   },
   "LUXEMBOURG": {
-    "id": "LU"
+    "id": "LU",
+    "region": "",
+    "regionId": ""
   },
   "MACAO": {
-    "id": "MO"
+    "id": "MO",
+    "region": "",
+    "regionId": ""
   },
   "MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF)": {
-    "id": "MK"
+    "id": "MK",
+    "region": "",
+    "regionId": ""
   },
   "MADAGASCAR": {
-    "id": "MG"
+    "id": "MG",
+    "region": "",
+    "regionId": ""
   },
   "MALAWI": {
-    "id": "MW"
+    "id": "MW",
+    "region": "",
+    "regionId": ""
   },
   "MALAYSIA": {
-    "id": "MY"
+    "id": "MY",
+    "region": "",
+    "regionId": ""
   },
   "MALDIVES": {
-    "id": "MV"
+    "id": "MV",
+    "region": "",
+    "regionId": ""
   },
   "MALI": {
-    "id": "ML"
+    "id": "ML",
+    "region": "",
+    "regionId": ""
   },
   "MALTA": {
-    "id": "MT"
+    "id": "MT",
+    "region": "",
+    "regionId": ""
   },
   "MARSHALL ISLANDS (THE)": {
-    "id": "MH"
+    "id": "MH",
+    "region": "",
+    "regionId": ""
   },
   "MARTINIQUE": {
-    "id": "MQ"
+    "id": "MQ",
+    "region": "",
+    "regionId": ""
   },
   "MAURITANIA": {
-    "id": "MR"
+    "id": "MR",
+    "region": "",
+    "regionId": ""
   },
   "MAURITIUS": {
-    "id": "MU"
+    "id": "MU",
+    "region": "",
+    "regionId": ""
   },
   "MAYOTTE": {
-    "id": "YT"
+    "id": "YT",
+    "region": "",
+    "regionId": ""
   },
   "MEXICO": {
-    "id": "MX"
+    "id": "MX",
+    "region": "",
+    "regionId": ""
   },
   "MICRONESIA (FEDERATED STATES OF)": {
-    "id": "FM"
+    "id": "FM",
+    "region": "",
+    "regionId": ""
   },
   "MOLDOVA (REPUBLIC OF)": {
-    "id": "MD"
+    "id": "MD",
+    "region": "",
+    "regionId": ""
   },
   "MONACO": {
-    "id": "MC"
+    "id": "MC",
+    "region": "",
+    "regionId": ""
   },
   "MONGOLIA": {
-    "id": "MN"
+    "id": "MN",
+    "region": "",
+    "regionId": ""
   },
   "MONTENEGRO": {
-    "id": "ME"
+    "id": "ME",
+    "region": "",
+    "regionId": ""
   },
   "MONTSERRAT": {
-    "id": "MS"
+    "id": "MS",
+    "region": "",
+    "regionId": ""
   },
   "MOROCCO": {
-    "id": "MA"
+    "id": "MA",
+    "region": "",
+    "regionId": ""
   },
   "MOZAMBIQUE": {
-    "id": "MZ"
+    "id": "MZ",
+    "region": "",
+    "regionId": ""
   },
   "MYANMAR": {
-    "id": "MM"
+    "id": "MM",
+    "region": "",
+    "regionId": ""
   },
   "NAMIBIA": {
-    "id": "NA"
+    "id": "NA",
+    "region": "",
+    "regionId": ""
   },
   "NAURU": {
-    "id": "NR"
+    "id": "NR",
+    "region": "",
+    "regionId": ""
   },
   "NEPAL": {
-    "id": "NP"
+    "id": "NP",
+    "region": "",
+    "regionId": ""
   },
   "NETHERLANDS (THE)": {
-    "id": "NL"
+    "id": "NL",
+    "region": "",
+    "regionId": ""
   },
   "NETHERLAND ANTILLES": {
-    "id": "AL;"
+    "id": "AL",
+    "region": "",
+    "regionId": ""
   },
   "NEW CALEDONIA": {
-    "id": "NC"
+    "id": "NC",
+    "region": "",
+    "regionId": ""
   },
   "NEW ZEALAND": {
-    "id": "NZ"
+    "id": "NZ",
+    "region": "",
+    "regionId": ""
   },
   "NICARAGUA": {
-    "id": "NI"
+    "id": "NI",
+    "region": "",
+    "regionId": ""
   },
   "NIGER (THE)": {
-    "id": "NE"
+    "id": "NE",
+    "region": "",
+    "regionId": ""
   },
   "NIGERIA": {
-    "id": "NG"
+    "id": "NG",
+    "region": "",
+    "regionId": ""
   },
   "NIUE": {
-    "id": "NU"
+    "id": "NU",
+    "region": "",
+    "regionId": ""
   },
   "NORFOLK ISLAND": {
-    "id": "NF"
+    "id": "NF",
+    "region": "",
+    "regionId": ""
   },
   "NORTHERN MARIANA ISLANDS (THE)": {
-    "id": "MP"
+    "id": "MP",
+    "region": "",
+    "regionId": ""
   },
   "NORWAY": {
-    "id": "NO"
+    "id": "NO",
+    "region": "",
+    "regionId": ""
   },
   "OMAN": {
-    "id": "OM"
+    "id": "OM",
+    "region": "",
+    "regionId": ""
   },
   "PAKISTAN": {
-    "id": "PK"
+    "id": "PK",
+    "region": "",
+    "regionId": ""
   },
   "PALAU": {
-    "id": "PW"
+    "id": "PW",
+    "region": "",
+    "regionId": ""
   },
   "PALESTINIAN TERRITORY, OCCUPIED": {
-    "id": "PS"
+    "id": "PS",
+    "region": "",
+    "regionId": ""
   },
   "PANAMA": {
-    "id": "PA"
+    "id": "PA",
+    "region": "",
+    "regionId": ""
   },
   "PAPUA NEW GUINEA": {
-    "id": "PG"
+    "id": "PG",
+    "region": "",
+    "regionId": ""
   },
   "PARAGUAY": {
-    "id": "PY"
+    "id": "PY",
+    "region": "",
+    "regionId": ""
   },
   "PERU": {
-    "id": "PE"
+    "id": "PE",
+    "region": "",
+    "regionId": ""
   },
   "PHILIPPINES (THE)": {
-    "id": "PH"
+    "id": "PH",
+    "region": "",
+    "regionId": ""
   },
   "PITCAIRN": {
-    "id": "PN"
+    "id": "PN",
+    "region": "",
+    "regionId": ""
   },
   "POLAND": {
-    "id": "PL"
+    "id": "PL",
+    "region": "",
+    "regionId": ""
   },
   "PORTUGAL": {
-    "id": "PT"
+    "id": "PT",
+    "region": "",
+    "regionId": ""
   },
   "PUERTO RICO": {
-    "id": "PR"
+    "id": "PR",
+    "region": "",
+    "regionId": ""
   },
   "QATAR": {
-    "id": "QA"
+    "id": "QA",
+    "region": "",
+    "regionId": ""
   },
   "REUNION": {
-    "id": "RE"
+    "id": "RE",
+    "region": "",
+    "regionId": ""
   },
   "ROMANIA": {
-    "id": "RO"
+    "id": "RO",
+    "region": "",
+    "regionId": ""
   },
   "RUSSIAN FEDERATION (THE)": {
-    "id": "RU"
+    "id": "RU",
+    "region": "",
+    "regionId": ""
   },
   "RWANDA": {
-    "id": "RW"
+    "id": "RW",
+    "region": "",
+    "regionId": ""
   },
   "SAINT BARTHÉLEMY": {
-    "id": "BL"
+    "id": "BL",
+    "region": "",
+    "regionId": ""
   },
   "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA": {
-    "id": "SH"
+    "id": "SH",
+    "region": "",
+    "regionId": ""
   },
   "SAINT KITTS AND NEVIS": {
-    "id": "KN"
+    "id": "KN",
+    "region": "",
+    "regionId": ""
   },
   "SAINT LUCIA": {
-    "id": "LC"
+    "id": "LC",
+    "region": "",
+    "regionId": ""
   },
   "SAINT MARTIN (FRENCH PART)": {
-    "id": "MF"
+    "id": "MF",
+    "region": "",
+    "regionId": ""
   },
   "SAINT PIERRE AND MIQUELON": {
-    "id": "PM"
+    "id": "PM",
+    "region": "",
+    "regionId": ""
   },
   "SAINT VINCENT AND THE GRENADINES": {
-    "id": "VC"
+    "id": "VC",
+    "region": "",
+    "regionId": ""
   },
   "SAMOA": {
-    "id": "WS"
+    "id": "WS",
+    "region": "",
+    "regionId": ""
   },
   "SAN MARINO": {
-    "id": "SM"
+    "id": "SM",
+    "region": "",
+    "regionId": ""
   },
   "SAO TOME AND PRINCIPE": {
-    "id": "ST"
+    "id": "ST",
+    "region": "",
+    "regionId": ""
   },
   "SAUDI ARABIA": {
-    "id": "SA"
+    "id": "SA",
+    "region": "",
+    "regionId": ""
   },
   "SENEGAL": {
-    "id": "SN"
+    "id": "SN",
+    "region": "",
+    "regionId": ""
   },
   "SERBIA": {
-    "id": "RS"
+    "id": "RS",
+    "region": "",
+    "regionId": ""
   },
   "SEYCHELLES": {
-    "id": "SC"
+    "id": "SC",
+    "region": "",
+    "regionId": ""
   },
   "SIERRA LEONE": {
-    "id": "SL"
+    "id": "SL",
+    "region": "",
+    "regionId": ""
   },
   "SINGAPORE": {
-    "id": "SG"
+    "id": "SG",
+    "region": "",
+    "regionId": ""
   },
   "SINT MAARTEN (DUTCH PART)": {
-    "id": "SX"
+    "id": "SX",
+    "region": "",
+    "regionId": ""
   },
   "SLOVAKIA": {
-    "id": "SK"
+    "id": "SK",
+    "region": "",
+    "regionId": ""
   },
   "SLOVENIA": {
-    "id": "SI"
+    "id": "SI",
+    "region": "",
+    "regionId": ""
   },
   "SOLOMON ISLANDS": {
-    "id": "SB"
+    "id": "SB",
+    "region": "",
+    "regionId": ""
   },
   "SOMALIA": {
-    "id": "SO"
+    "id": "SO",
+    "region": "",
+    "regionId": ""
   },
   "SOUTH AFRICA": {
-    "id": "ZA"
+    "id": "ZA",
+    "region": "",
+    "regionId": ""
   },
   "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS": {
-    "id": "GS"
+    "id": "GS",
+    "region": "",
+    "regionId": ""
   },
   "SOUTH SUDAN": {
-    "id": "SS"
+    "id": "SS",
+    "region": "",
+    "regionId": ""
   },
   "SPAIN": {
-    "id": "ES"
+    "id": "ES",
+    "region": "",
+    "regionId": ""
   },
   "SRI LANKA": {
-    "id": "LK"
+    "id": "LK",
+    "region": "",
+    "regionId": ""
   },
   "SUDAN (THE)": {
-    "id": "SD"
+    "id": "SD",
+    "region": "",
+    "regionId": ""
   },
   "SURINAME": {
-    "id": "SR"
+    "id": "SR",
+    "region": "",
+    "regionId": ""
   },
   "SVALBARD AND JAN MAYEN": {
-    "id": "SJ"
+    "id": "SJ",
+    "region": "",
+    "regionId": ""
   },
   "SWAZILAND": {
-    "id": "SZ"
+    "id": "SZ",
+    "region": "",
+    "regionId": ""
   },
   "SWEDEN": {
-    "id": "SE"
+    "id": "SE",
+    "region": "",
+    "regionId": ""
   },
   "SWITZERLAND": {
-    "id": "CH"
+    "id": "CH",
+    "region": "",
+    "regionId": ""
   },
   "SYRIAN ARAB REPUBLIC": {
-    "id": "SY"
+    "id": "SY",
+    "region": "",
+    "regionId": ""
   },
   "TAIWAN (PROVINCE OF CHINA)": {
-    "id": "TW"
+    "id": "TW",
+    "region": "",
+    "regionId": ""
   },
   "TAJIKISTAN": {
-    "id": "TJ"
+    "id": "TJ",
+    "region": "",
+    "regionId": ""
   },
   "TANZANIA, UNITED REPUBLIC OF": {
-    "id": "TZ"
+    "id": "TZ",
+    "region": "",
+    "regionId": ""
   },
   "THAILAND": {
-    "id": "TH"
+    "id": "TH",
+    "region": "",
+    "regionId": ""
   },
   "TIMOR-LESTE": {
-    "id": "TL"
+    "id": "TL",
+    "region": "",
+    "regionId": ""
   },
   "TOGO": {
-    "id": "TG"
+    "id": "TG",
+    "region": "",
+    "regionId": ""
   },
   "TOKELAU": {
-    "id": "TK"
+    "id": "TK",
+    "region": "",
+    "regionId": ""
   },
   "TONGA": {
-    "id": "TO"
+    "id": "TO",
+    "region": "",
+    "regionId": ""
   },
   "TRINIDAD AND TOBAGO": {
-    "id": "TT"
+    "id": "TT",
+    "region": "",
+    "regionId": ""
   },
   "TUNISIA": {
-    "id": "TN"
+    "id": "TN",
+    "region": "",
+    "regionId": ""
   },
   "TURKEY": {
-    "id": "TR"
+    "id": "TR",
+    "region": "",
+    "regionId": ""
   },
   "TURKMENISTAN": {
-    "id": "TM"
+    "id": "TM",
+    "region": "",
+    "regionId": ""
   },
   "TURKS AND CAICOS ISLANDS (THE)": {
-    "id": "TC"
+    "id": "TC",
+    "region": "",
+    "regionId": ""
   },
   "TUVALU": {
-    "id": "TV"
+    "id": "TV",
+    "region": "",
+    "regionId": ""
   },
   "UGANDA": {
-    "id": "UG"
+    "id": "UG",
+    "region": "",
+    "regionId": ""
   },
   "UKRAINE": {
-    "id": "UA"
+    "id": "UA",
+    "region": "",
+    "regionId": ""
   },
   "UNITED ARAB EMIRATES (THE)": {
-    "id": "AE"
+    "id": "AE",
+    "region": "",
+    "regionId": ""
   },
   "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)": {
-    "id": "GB"
+    "id": "GB",
+    "region": "",
+    "regionId": ""
   },
   "UNITED STATES OF AMERICA (THE)": {
-    "id": "UM"
+    "id": "UM",
+    "region": "",
+    "regionId": ""
   },
   "UNITED STATES MINOR OUTLYING ISLANDS (THE)": {
-    "id": "US"
+    "id": "US",
+    "region": "",
+    "regionId": ""
   },
   "URUGUAY": {
-    "id": "UY"
+    "id": "UY",
+    "region": "",
+    "regionId": ""
   },
   "UZBEKISTAN": {
-    "id": "UZ"
+    "id": "UZ",
+    "region": "",
+    "regionId": ""
   },
   "VANUATU": {
-    "id": "VU"
+    "id": "VU",
+    "region": "",
+    "regionId": ""
   },
   "VENEZUELA (BOLIVARIAN REPUBLIC OF)": {
-    "id": "VE"
+    "id": "VE",
+    "region": "",
+    "regionId": ""
   },
   "VIET NAM": {
-    "id": "VN"
+    "id": "VN",
+    "region": "",
+    "regionId": ""
   },
   "VIRGIN ISLANDS (BRITISH)": {
-    "id": "VG"
+    "id": "VG",
+    "region": "",
+    "regionId": ""
   },
   "VIRGIN ISLANDS (U.S.)": {
-    "id": "VI"
+    "id": "VI",
+    "region": "",
+    "regionId": ""
   },
   "WALLIS AND FUTUNA": {
-    "id": "WF"
+    "id": "WF",
+    "region": "",
+    "regionId": ""
   },
   "WESTERN SAHARA": {
-    "id": "EH"
+    "id": "EH",
+    "region": "",
+    "regionId": ""
   },
   "YEMEN": {
-    "id": "YE"
+    "id": "YE",
+    "region": "",
+    "regionId": ""
   },
   "ZAMBIA": {
-    "id": "ZM"
+    "id": "ZM",
+    "region": "",
+    "regionId": ""
   },
   "ZIMBABWE": {
-    "id": "ZW"
+    "id": "ZW",
+    "region": "",
+    "regionId": ""
   }
 }

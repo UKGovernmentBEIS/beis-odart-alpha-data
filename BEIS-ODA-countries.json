@@ -1,43 +1,43 @@
 {
   "AFGHANISTAN": {
     "id": "AF",
-    "region": "",
-    "regionId": ""
+    "region": "South Asia, regional",
+    "regionId": "679"
   },
   "ÅLAND ISLANDS": {
     "id": "AX",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "ALBANIA": {
     "id": "AL",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "ALGERIA": {
     "id": "DZ",
-    "region": "",
-    "regionId": ""
+    "region": "North of Sahara, regional",
+    "regionId": "189"
   },
   "AMERICAN SAMOA": {
     "id": "AS",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "ANDORRA": {
     "id": "AD",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "ANGOLA": {
     "id": "AO",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "ANGUILLA": {
     "id": "AI",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "ANTARCTICA": {
     "id": "AQ",
@@ -46,106 +46,108 @@
   },
   "ANTIGUA AND BARBUDA": {
     "id": "AG",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "ARGENTINA": {
     "id": "AR",
-    "region": "",
-    "regionId": ""
+    "region": "South America, regional",
+    "regionId": "489"
   },
   "ARMENIA": {
     "id": "AM",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "ARUBA": {
     "id": "AW",
-    "region": "",
-    "regionId": ""
+    "region": "South America, regional",
+    "regionId": "489"
   },
   "AUSTRALIA": {
     "id": "AU",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "AUSTRIA": {
     "id": "AT",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "AZERBAIJAN": {
     "id": "AZ",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "BAHAMAS (THE)": {
     "id": "BS",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "BAHRAIN": {
     "id": "BH",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "BANGLADESH": {
     "id": "BD",
-    "region": "",
-    "regionId": ""
+    "region": "South Asia, regional",
+    "regionId": "679"
   },
   "BARBADOS": {
     "id": "BB",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "BELARUS": {
     "id": "BY",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "BELGIUM": {
     "id": "BE",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "BELIZE": {
     "id": "BZ",
-    "region": "",
-    "regionId": ""
+    "region": "North & Central America, regional",
+    "regionId": "389"
   },
   "BENIN": {
     "id": "BJ",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "BERMUDA": {
     "id": "BM",
-    "region": "",
-    "regionId": ""
+    "region": "America, regional",
+    "regionId": "498"
   },
   "BHUTAN": {
     "id": "BT",
-    "region": "",
-    "regionId": ""
+    "region": "South Asia, regional",
+    "regionId": "679"
   },
   "BOLIVIA (PLURINATIONAL STATE OF)": {
     "id": "BO",
-    "region": "",
-    "regionId": ""
+    "region": "South America, regional",
+    "regionId": "489"
   },
   "BONAIRE, SAINT EUSTATIUS AND SABA": {
-    "id": "BQ"
+    "id": "BQ",
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "BOSNIA AND HERZEGOVINA": {
     "id": "BA",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "BOTSWANA": {
     "id": "BW",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "BOUVET ISLAND": {
     "id": "BV",
@@ -154,238 +156,238 @@
   },
   "BRAZIL": {
     "id": "BR",
-    "region": "",
-    "regionId": ""
+    "region": "South America, regional",
+    "regionId": "489"
   },
   "BRITISH INDIAN OCEAN TERRITORY (THE)": {
     "id": "IO",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "BRUNEI DARUSSALAM": {
     "id": "BN",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "BULGARIA": {
     "id": "BG",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "BURKINA FASO": {
     "id": "BF",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "BURUNDI": {
     "id": "BI",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "CAMBODIA": {
     "id": "KH",
-    "region": "",
-    "regionId": ""
+    "region": "Far East Asia, regional",
+    "regionId": "789"
   },
   "CAMEROON": {
     "id": "CM",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "CANADA": {
     "id": "CA",
-    "region": "",
-    "regionId": ""
+    "region": "North & Central America, regional",
+    "regionId": "389"
   },
   "CAPE VERDE": {
     "id": "CV",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "CAYMAN ISLANDS (THE)": {
     "id": "KY",
-    "region": "",
-    "regionId": ""
+    "region": "America, regional",
+    "regionId": "498"
   },
   "CENTRAL AFRICAN REPUBLIC (THE)": {
     "id": "CF",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "CHAD": {
     "id": "TD",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "CHILE": {
     "id": "CL",
-    "region": "",
-    "regionId": ""
+    "region": "South America, regional",
+    "regionId": "489"
   },
   "CHINA": {
     "id": "CN",
-    "region": "",
-    "regionId": ""
+    "region": "Far East Asia, regional",
+    "regionId": "789"
   },
   "CHRISTMAS ISLAND": {
     "id": "CX",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "COCOS (KEELING) ISLANDS (THE)": {
     "id": "CC",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "COLOMBIA": {
     "id": "CO",
-    "region": "",
-    "regionId": ""
+    "region": "South America, regional",
+    "regionId": "489"
   },
   "COMOROS (THE)": {
     "id": "KM",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "CONGO (THE)": {
     "id": "CG",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "CONGO, THE DEMOCRATIC REPUBLIC OF THE": {
     "id": "CD",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "COOK ISLANDS (THE)": {
     "id": "CK",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "COSTA RICA": {
     "id": "CR",
-    "region": "",
-    "regionId": ""
+    "region": "North & Central America, regional",
+    "regionId": "389"
   },
   "CÔTE D’IVOIRE": {
     "id": "CI",
-    "region": "",
-    "regionId": ""
+    "region": "Africa, regional",
+    "regionId": "298"
   },
   "CROATIA": {
     "id": "HR",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "CUBA": {
     "id": "CU",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "CURAÇAO": {
     "id": "CW",
-    "region": "",
-    "regionId": ""
+    "region": "South America, regional",
+    "regionId": "489"
   },
   "CYPRUS": {
     "id": "CY",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "CZECH REPUBLIC (THE)": {
     "id": "CZ",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "DENMARK": {
     "id": "DK",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "DJIBOUTI": {
     "id": "DJ",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "DOMINICA": {
     "id": "DM",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "DOMINICAN REPUBLIC (THE)": {
     "id": "DO",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "ECUADOR": {
     "id": "EC",
-    "region": "",
-    "regionId": ""
+    "region": "South America, regional",
+    "regionId": "489"
   },
   "EGYPT": {
     "id": "EG",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "EL SALVADOR": {
     "id": "SV",
-    "region": "",
-    "regionId": ""
+    "region": "North & Central America, regional",
+    "regionId": "389"
   },
   "EQUATORIAL GUINEA": {
     "id": "GQ",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "ERITREA": {
     "id": "ER",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "ESTONIA": {
     "id": "EE",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "ETHIOPIA": {
     "id": "ET",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "FALKLAND ISLANDS (THE) [MALVINAS]": {
     "id": "FK",
-    "region": "",
-    "regionId": ""
+    "region": "South America, regional",
+    "regionId": "489"
   },
   "FAROE ISLANDS (THE)": {
     "id": "FO",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "FIJI": {
     "id": "FJ",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "FINLAND": {
     "id": "FI",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "FRANCE": {
     "id": "FR",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "FRENCH GUIANA": {
     "id": "GF",
-    "region": "",
-    "regionId": ""
+    "region": "South America, regional",
+    "regionId": "489"
   },
   "FRENCH POLYNESIA": {
     "id": "PF",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "FRENCH SOUTHERN TERRITORIES (THE)": {
     "id": "TF",
@@ -394,88 +396,88 @@
   },
   "GABON": {
     "id": "GA",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "GAMBIA (THE)": {
     "id": "GM",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "GEORGIA": {
     "id": "GE",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "GERMANY": {
     "id": "DE",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "GHANA": {
     "id": "GH",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "GIBRALTAR": {
     "id": "GI",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "GREECE": {
     "id": "GR",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "GREENLAND": {
     "id": "GL",
-    "region": "",
-    "regionId": ""
+    "region": "America, regional",
+    "regionId": "498"
   },
   "GRENADA": {
     "id": "GD",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "GUADELOUPE": {
     "id": "GP",
-    "region": "",
-    "regionId": ""
+    "region": "America, regional",
+    "regionId": "498"
   },
   "GUAM": {
     "id": "GU",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "GUATEMALA": {
     "id": "GT",
-    "region": "",
-    "regionId": ""
+    "region": "North & Central America, regional",
+    "regionId": "389"
   },
   "GUERNSEY": {
     "id": "GG",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "GUINEA": {
     "id": "GN",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "GUINEA-BISSAU": {
     "id": "GW",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "GUYANA": {
     "id": "GY",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "HAITI": {
     "id": "HT",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "HEARD ISLAND AND MCDONALD ISLANDS": {
     "id": "HM",
@@ -484,308 +486,309 @@
   },
   "HOLY SEE (THE)": {
     "id": "VA",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "HONDURAS": {
     "id": "HN",
-    "region": "",
-    "regionId": ""
+    "region": "North & Central America, regional",
+    "regionId": "389"
   },
   "HONG KONG": {
     "id": "HK",
-    "region": "",
-    "regionId": ""
+    "region": "Far East Asia, regional",
+    "regionId": "789"
   },
   "HUNGARY": {
     "id": "HU",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "ICELAND": {
     "id": "IS",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "INDIA": {
     "id": "IN",
-    "region": "",
-    "regionId": ""
+    "region": "South Asia, regional",
+    "regionId": "679"
   },
   "INDONESIA": {
     "id": "ID",
-    "region": "",
-    "regionId": ""
+    "region": "Far East Asia, regional",
+    "regionId": "789"
   },
   "IRAN (ISLAMIC REPUBLIC OF)": {
     "id": "IR",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "IRAQ": {
     "id": "IQ",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "IRELAND": {
     "id": "IE",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "ISLE OF MAN": {
     "id": "IM",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "ISRAEL": {
     "id": "IL",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "ITALY": {
     "id": "IT",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "JAMAICA": {
     "id": "JM",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "JAPAN": {
     "id": "JP",
-    "region": "",
-    "regionId": ""
+    "region": "Far East Asia, regional",
+    "regionId": "789"
   },
   "JERSEY": {
     "id": "JE",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "JORDAN": {
     "id": "JO",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "KAZAKHSTAN": {
     "id": "KZ",
-    "region": "",
-    "regionId": ""
+    "region": "Central Asia, regional",
+    "regionId": "619"
   },
   "KENYA": {
     "id": "KE",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "KIRIBATI": {
     "id": "KI",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "KOREA (DEMOCRATIC PEOPLE’S REPUBLIC OF)": {
     "id": "KP",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "KOREA (REPUBLIC OF)": {
     "id": "KR",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "KOSOVO": {
     "id": "XK",
-    "region": "",
-    "regionId": ""
+    "region": "States Ex-Yugoslavia unspecified",
+    "regionId": "89",
+    "outlier": true
   },
   "KUWAIT": {
     "id": "KW",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "KYRGYZSTAN": {
     "id": "KG",
-    "region": "",
-    "regionId": ""
+    "region": "Central Asia, regional",
+    "regionId": "619"
   },
   "LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE)": {
     "id": "LA",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "LATVIA": {
     "id": "LV",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "LEBANON": {
     "id": "LB",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "LESOTHO": {
     "id": "LS",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "LIBERIA": {
     "id": "LR",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "LIBYAN ARAB JAMAHIRIYA": {
     "id": "LY",
-    "region": "",
-    "regionId": ""
+    "region": "North of Sahara, regional",
+    "regionId": "189"
   },
   "LIECHTENSTEIN": {
     "id": "LI",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "LITHUANIA": {
     "id": "LT",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "LUXEMBOURG": {
     "id": "LU",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "MACAO": {
     "id": "MO",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF)": {
     "id": "MK",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "MADAGASCAR": {
     "id": "MG",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "MALAWI": {
     "id": "MW",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "MALAYSIA": {
     "id": "MY",
-    "region": "",
-    "regionId": ""
+    "region": "Far East Asia, regional",
+    "regionId": "789"
   },
   "MALDIVES": {
     "id": "MV",
-    "region": "",
-    "regionId": ""
+    "region": "South Asia, regional",
+    "regionId": "679"
   },
   "MALI": {
     "id": "ML",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "MALTA": {
     "id": "MT",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "MARSHALL ISLANDS (THE)": {
     "id": "MH",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "MARTINIQUE": {
     "id": "MQ",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "MAURITANIA": {
     "id": "MR",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "MAURITIUS": {
     "id": "MU",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "MAYOTTE": {
     "id": "YT",
-    "region": "",
-    "regionId": ""
+    "region": "Africa, regional",
+    "regionId": "298"
   },
   "MEXICO": {
     "id": "MX",
-    "region": "",
-    "regionId": ""
+    "region": "North & Central America, regional",
+    "regionId": "389"
   },
   "MICRONESIA (FEDERATED STATES OF)": {
     "id": "FM",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "MOLDOVA (REPUBLIC OF)": {
     "id": "MD",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "MONACO": {
     "id": "MC",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "MONGOLIA": {
     "id": "MN",
-    "region": "",
-    "regionId": ""
+    "region": "Far East Asia, regional",
+    "regionId": "789"
   },
   "MONTENEGRO": {
     "id": "ME",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "MONTSERRAT": {
     "id": "MS",
-    "region": "",
-    "regionId": ""
+    "region": "America, regional",
+    "regionId": "498"
   },
   "MOROCCO": {
     "id": "MA",
-    "region": "",
-    "regionId": ""
+    "region": "North of Sahara, regional",
+    "regionId": "189"
   },
   "MOZAMBIQUE": {
     "id": "MZ",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "MYANMAR": {
     "id": "MM",
-    "region": "",
-    "regionId": ""
+    "region": "Far East Asia, regional",
+    "regionId": "789"
   },
   "NAMIBIA": {
     "id": "NA",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "NAURU": {
     "id": "NR",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "NEPAL": {
     "id": "NP",
-    "region": "",
-    "regionId": ""
+    "region": "South Asia, regional",
+    "regionId": "679"
   },
   "NETHERLANDS (THE)": {
     "id": "NL",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "NETHERLAND ANTILLES": {
     "id": "AL",
@@ -794,143 +797,143 @@
   },
   "NEW CALEDONIA": {
     "id": "NC",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "NEW ZEALAND": {
     "id": "NZ",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "NICARAGUA": {
     "id": "NI",
-    "region": "",
-    "regionId": ""
+    "region": "North & Central America, regional",
+    "regionId": "389"
   },
   "NIGER (THE)": {
     "id": "NE",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "NIGERIA": {
     "id": "NG",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "NIUE": {
     "id": "NU",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "NORFOLK ISLAND": {
     "id": "NF",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "NORTHERN MARIANA ISLANDS (THE)": {
     "id": "MP",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "NORWAY": {
     "id": "NO",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "OMAN": {
     "id": "OM",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "PAKISTAN": {
     "id": "PK",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "PALAU": {
     "id": "PW",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "PALESTINIAN TERRITORY, OCCUPIED": {
     "id": "PS",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "PANAMA": {
     "id": "PA",
-    "region": "",
-    "regionId": ""
+    "region": "North & Central America, regional",
+    "regionId": "389"
   },
   "PAPUA NEW GUINEA": {
     "id": "PG",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "PARAGUAY": {
     "id": "PY",
-    "region": "",
-    "regionId": ""
+    "region": "South America, regional",
+    "regionId": "489"
   },
   "PERU": {
     "id": "PE",
-    "region": "",
-    "regionId": ""
+    "region": "South America, regional",
+    "regionId": "489"
   },
   "PHILIPPINES (THE)": {
     "id": "PH",
-    "region": "",
-    "regionId": ""
+    "region": "Far East Asia, regional",
+    "regionId": "789"
   },
   "PITCAIRN": {
     "id": "PN",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "POLAND": {
     "id": "PL",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "PORTUGAL": {
     "id": "PT",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "PUERTO RICO": {
     "id": "PR",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "QATAR": {
     "id": "QA",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "REUNION": {
     "id": "RE",
-    "region": "",
-    "regionId": ""
+    "region": "Africa, regional",
+    "regionId": "298"
   },
   "ROMANIA": {
     "id": "RO",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "RUSSIAN FEDERATION (THE)": {
     "id": "RU",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "RWANDA": {
     "id": "RW",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "SAINT BARTHÉLEMY": {
     "id": "BL",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA": {
     "id": "SH",
@@ -939,103 +942,103 @@
   },
   "SAINT KITTS AND NEVIS": {
     "id": "KN",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "SAINT LUCIA": {
     "id": "LC",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "SAINT MARTIN (FRENCH PART)": {
     "id": "MF",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "SAINT PIERRE AND MIQUELON": {
     "id": "PM",
-    "region": "",
-    "regionId": ""
+    "region": "America, regional",
+    "regionId": "498"
   },
   "SAINT VINCENT AND THE GRENADINES": {
     "id": "VC",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "SAMOA": {
     "id": "WS",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "SAN MARINO": {
     "id": "SM",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "SAO TOME AND PRINCIPE": {
     "id": "ST",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "SAUDI ARABIA": {
     "id": "SA",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "SENEGAL": {
     "id": "SN",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "SERBIA": {
     "id": "RS",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "SEYCHELLES": {
     "id": "SC",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "SIERRA LEONE": {
     "id": "SL",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "SINGAPORE": {
     "id": "SG",
-    "region": "",
-    "regionId": ""
+    "region": "Far East Asia, regional",
+    "regionId": "789"
   },
   "SINT MAARTEN (DUTCH PART)": {
     "id": "SX",
-    "region": "",
-    "regionId": ""
+    "region": "America, regional",
+    "regionId": "498"
   },
   "SLOVAKIA": {
     "id": "SK",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "SLOVENIA": {
     "id": "SI",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "SOLOMON ISLANDS": {
     "id": "SB",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "SOMALIA": {
     "id": "SO",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "SOUTH AFRICA": {
     "id": "ZA",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS": {
     "id": "GS",
@@ -1044,148 +1047,148 @@
   },
   "SOUTH SUDAN": {
     "id": "SS",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "SPAIN": {
     "id": "ES",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "SRI LANKA": {
     "id": "LK",
-    "region": "",
-    "regionId": ""
+    "region": "South Asia, regional",
+    "regionId": "679"
   },
   "SUDAN (THE)": {
     "id": "SD",
-    "region": "",
-    "regionId": ""
+    "region": "Africa, regional",
+    "regionId": "298"
   },
   "SURINAME": {
     "id": "SR",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "SVALBARD AND JAN MAYEN": {
     "id": "SJ",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "SWAZILAND": {
     "id": "SZ",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "SWEDEN": {
     "id": "SE",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "SWITZERLAND": {
     "id": "CH",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "SYRIAN ARAB REPUBLIC": {
     "id": "SY",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "TAIWAN (PROVINCE OF CHINA)": {
     "id": "TW",
-    "region": "",
-    "regionId": ""
+    "region": "Far East Asia, regional",
+    "regionId": "789"
   },
   "TAJIKISTAN": {
     "id": "TJ",
-    "region": "",
-    "regionId": ""
+    "region": "Central Asia, regional",
+    "regionId": "619"
   },
   "TANZANIA, UNITED REPUBLIC OF": {
     "id": "TZ",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "THAILAND": {
     "id": "TH",
-    "region": "",
-    "regionId": ""
+    "region": "Far East Asia, regional",
+    "regionId": "789"
   },
   "TIMOR-LESTE": {
     "id": "TL",
-    "region": "",
-    "regionId": ""
+    "region": "Asia, regional",
+    "regionId": "798"
   },
   "TOGO": {
     "id": "TG",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "TOKELAU": {
     "id": "TK",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "TONGA": {
     "id": "TO",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "TRINIDAD AND TOBAGO": {
     "id": "TT",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "TUNISIA": {
     "id": "TN",
-    "region": "",
-    "regionId": ""
+    "region": "North of Sahara, regional",
+    "regionId": "189"
   },
   "TURKEY": {
     "id": "TR",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "TURKMENISTAN": {
     "id": "TM",
-    "region": "",
-    "regionId": ""
+    "region": "Central Asia, regional",
+    "regionId": "619"
   },
   "TURKS AND CAICOS ISLANDS (THE)": {
     "id": "TC",
-    "region": "",
-    "regionId": ""
+    "region": "America, regional",
+    "regionId": "498"
   },
   "TUVALU": {
     "id": "TV",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "UGANDA": {
     "id": "UG",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "UKRAINE": {
     "id": "UA",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "UNITED ARAB EMIRATES (THE)": {
     "id": "AE",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)": {
     "id": "GB",
-    "region": "",
-    "regionId": ""
+    "region": "Europe, regional",
+    "regionId": "89"
   },
   "UNITED STATES OF AMERICA (THE)": {
     "id": "UM",
-    "region": "",
-    "regionId": ""
+    "region": "North & Central America, regional",
+    "regionId": "389"
   },
   "UNITED STATES MINOR OUTLYING ISLANDS (THE)": {
     "id": "US",
@@ -1194,62 +1197,62 @@
   },
   "URUGUAY": {
     "id": "UY",
-    "region": "",
-    "regionId": ""
+    "region": "South America, regional",
+    "regionId": "489"
   },
   "UZBEKISTAN": {
     "id": "UZ",
-    "region": "",
-    "regionId": ""
+    "region": "Central Asia, regional",
+    "regionId": "619"
   },
   "VANUATU": {
     "id": "VU",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "VENEZUELA (BOLIVARIAN REPUBLIC OF)": {
     "id": "VE",
-    "region": "",
-    "regionId": ""
+    "region": "South America, regional",
+    "regionId": "489"
   },
   "VIET NAM": {
     "id": "VN",
-    "region": "",
-    "regionId": ""
+    "region": "Far East Asia, regional",
+    "regionId": "789"
   },
   "VIRGIN ISLANDS (BRITISH)": {
     "id": "VG",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "VIRGIN ISLANDS (U.S.)": {
     "id": "VI",
-    "region": "",
-    "regionId": ""
+    "region": "West Indies, regional",
+    "regionId": "380"
   },
   "WALLIS AND FUTUNA": {
     "id": "WF",
-    "region": "",
-    "regionId": ""
+    "region": "Oceania, regional",
+    "regionId": "889"
   },
   "WESTERN SAHARA": {
     "id": "EH",
-    "region": "",
-    "regionId": ""
+    "region": "Africa, regional",
+    "regionId": "298"
   },
   "YEMEN": {
     "id": "YE",
-    "region": "",
-    "regionId": ""
+    "region": "Middle East, regional",
+    "regionId": "589"
   },
   "ZAMBIA": {
     "id": "ZM",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   },
   "ZIMBABWE": {
     "id": "ZW",
-    "region": "",
-    "regionId": ""
+    "region": "South of Sahara, regional",
+    "regionId": "289"
   }
 }

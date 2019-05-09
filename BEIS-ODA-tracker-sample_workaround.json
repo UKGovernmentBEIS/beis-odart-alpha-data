@@ -1,0 +1,713 @@
+[
+ {
+   "key": 1,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/P005616/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 4845.78
+ },
+ {
+   "key": 2,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006836/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 46640.63
+ },
+ {
+   "key": 3,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/P006957/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 3971.91
+ },
+ {
+   "key": 4,
+   "Classification Name": "GCRF",
+   "Grant Reference": "ST/R002703/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 20580.2
+ },
+ {
+   "key": 5,
+   "Classification Name": "GCRF",
+   "Grant Reference": "NE/R009597/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "8/3/2018",
+   "RC Gross Amount": 27797.61
+ },
+ {
+   "key": 6,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006895/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 84366.28
+ },
+ {
+   "key": 7,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006747/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 84666.04
+ },
+ {
+   "key": 8,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006887/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 82106.25
+ },
+ {
+   "key": 9,
+   "Classification Name": "GCRF",
+   "Grant Reference": "NE/R009619/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "12/12/2017",
+   "RC Gross Amount": 16724.18
+ },
+ {
+   "key": 10,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006771/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 60323.84
+ },
+ {
+   "key": 11,
+   "Classification Name": "GCRF",
+   "Grant Reference": "ST/R002681/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/3/2018",
+   "RC Gross Amount": 10107.02
+ },
+ {
+   "key": 12,
+   "Classification Name": "GCRF",
+   "Grant Reference": "ST/R00286X/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/3/2018",
+   "RC Gross Amount": 50119.51
+ },
+ {
+   "key": 13,
+   "Classification Name": "GCRF",
+   "Grant Reference": "NE/R009325/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "12/12/2017",
+   "RC Gross Amount": 13051.52
+ },
+ {
+   "key": 14,
+   "Classification Name": "GCRF",
+   "Grant Reference": "NE/R009376/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "12/12/2017",
+   "RC Gross Amount": 23707.28
+ },
+ {
+   "key": 15,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006860/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 82977.26
+ },
+ {
+   "key": 16,
+   "Classification Name": "GCRF",
+   "Grant Reference": "NE/R009392/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "12/12/2017",
+   "RC Gross Amount": 19659.89
+ },
+ {
+   "key": 17,
+   "Classification Name": "GCRF",
+   "Grant Reference": "ST/R002789/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/3/2018",
+   "RC Gross Amount": 17357.18
+ },
+ {
+   "key": 18,
+   "Classification Name": "GCRF",
+   "Grant Reference": "NE/R009309/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "12/12/2017",
+   "RC Gross Amount": 16242.23
+ },
+ {
+   "key": 19,
+   "Classification Name": "GCRF",
+   "Grant Reference": "NE/R009481/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "12/12/2017",
+   "RC Gross Amount": 16788.51
+ },
+ {
+   "key": 20,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006852/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 60355.59
+ },
+ {
+   "key": 21,
+   "Classification Name": "GCRF",
+   "Grant Reference": "NE/R009589/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "12/12/2017",
+   "RC Gross Amount": 19828.29
+ },
+ {
+   "key": 22,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006879/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 82553.44
+ },
+ {
+   "key": 23,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006852/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/3/2018",
+   "RC Gross Amount": 48000
+ },
+ {
+   "key": 24,
+   "Classification Name": "GCRF",
+   "Grant Reference": "NE/R009139/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "12/12/2017",
+   "RC Gross Amount": 25177.33
+ },
+ {
+   "key": 25,
+   "Classification Name": "GCRF",
+   "Grant Reference": "NE/R009465/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "12/12/2017",
+   "RC Gross Amount": 16923.17
+ },
+ {
+   "key": 26,
+   "Classification Name": "GCRF",
+   "Grant Reference": "NE/R007675/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "8/3/2018",
+   "RC Gross Amount": 24872.9
+ },
+ {
+   "key": 27,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006844/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 97423.12
+ },
+ {
+   "key": 28,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/P002803/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 35016.34
+ },
+ {
+   "key": 29,
+   "Classification Name": "GCRF",
+   "Grant Reference": "NE/R009406/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "12/12/2017",
+   "RC Gross Amount": 16844.13
+ },
+ {
+   "key": 30,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006712/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/3/2018",
+   "RC Gross Amount": 49000
+ },
+ {
+   "key": 31,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006763/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 95018.54
+ },
+ {
+   "key": 32,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006755/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 78791.35
+ },
+ {
+   "key": 33,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/P003052/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 34232.89
+ },
+ {
+   "key": 34,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N00678X/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 97954.86
+ },
+ {
+   "key": 35,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/P003168/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 77347.13
+ },
+ {
+   "key": 36,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006739/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 74616.61
+ },
+ {
+   "key": 37,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006720/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 84422.4
+ },
+ {
+   "key": 38,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006798/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 35771.06
+ },
+ {
+   "key": 39,
+   "Classification Name": "GCRF",
+   "Grant Reference": "ST/P003257/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 16125.87
+ },
+ {
+   "key": 40,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006712/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 56165.38
+ },
+ {
+   "key": 41,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006798/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/3/2018",
+   "RC Gross Amount": 77940.07
+ },
+ {
+   "key": 42,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N00681X/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 52840.92
+ },
+ {
+   "key": 43,
+   "Classification Name": "GCRF",
+   "Grant Reference": "ST/P003273/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 16801.64
+ },
+ {
+   "key": 44,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006828/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 75802.52
+ },
+ {
+   "key": 45,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/M007995/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 2655.72
+ },
+ {
+   "key": 46,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006690/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 57293.77
+ },
+ {
+   "key": 47,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N003527/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 103599.53
+ },
+ {
+   "key": 48,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006801/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/3/2018",
+   "RC Gross Amount": 68163.59
+ },
+ {
+   "key": 49,
+   "Classification Name": "GCRF",
+   "Grant Reference": "ST/P003281/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 10328.77
+ },
+ {
+   "key": 50,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/P005594/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 8977.41
+ },
+ {
+   "key": 51,
+   "Classification Name": "GCRF",
+   "Grant Reference": "ST/R002851/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 15774.35
+ },
+ {
+   "key": 52,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/P005535/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 25202.51
+ },
+ {
+   "key": 53,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006801/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/12/2017",
+   "RC Gross Amount": 55150.76
+ },
+ {
+   "key": 54,
+   "Classification Name": "Newton",
+   "Grant Reference": "ST/N006836/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "13/3/2018",
+   "RC Gross Amount": 50000
+ },
+ {
+   "key": 55,
+   "Classification Name": "GCRF",
+   "Grant Reference": "ST/R002983/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 35638.86
+ },
+ {
+   "key": 56,
+   "Classification Name": "GCRF",
+   "Grant Reference": "AH/R003882/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "7/12/2017",
+   "RC Gross Amount": 14153.99
+ },
+ {
+   "key": 57,
+   "Classification Name": "GCRF",
+   "Grant Reference": "BB/R00532X/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "14/12/2017",
+   "RC Gross Amount": 113522.54
+ },
+ {
+   "key": 58,
+   "Classification Name": "Newton",
+   "Grant Reference": "BB/N016246/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "14/12/2017",
+   "RC Gross Amount": 34139.4
+ },
+ {
+   "key": 59,
+   "Classification Name": "GCRF",
+   "Grant Reference": "EP/P029531/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "11/12/2017",
+   "RC Gross Amount": 80405.43
+ },
+ {
+   "key": 60,
+   "Classification Name": "GCRF",
+   "Grant Reference": "BB/P022677/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "14/12/2017",
+   "RC Gross Amount": 39379.43
+ },
+ {
+   "key": 61,
+   "Classification Name": "GCRF",
+   "Grant Reference": "BB/P02355X/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "14/12/2017",
+   "RC Gross Amount": 28220.81
+ },
+ {
+   "key": 62,
+   "Classification Name": "GCRF",
+   "Grant Reference": "EP/P029671/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "11/12/2017",
+   "RC Gross Amount": 91647.02
+ },
+ {
+   "key": 63,
+   "Classification Name": "GCRF",
+   "Grant Reference": "BB/P023533/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "14/12/2017",
+   "RC Gross Amount": 74053.82
+ },
+ {
+   "key": 64,
+   "Classification Name": "Newton",
+   "Grant Reference": "ES/N01314X/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "18/12/2017",
+   "RC Gross Amount": 30578.09
+ },
+ {
+   "key": 65,
+   "Classification Name": "GCRF",
+   "Grant Reference": "BB/P024270/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "14/12/2017",
+   "RC Gross Amount": 39537.28
+ },
+ {
+   "key": 66,
+   "Classification Name": "GCRF",
+   "Grant Reference": "AH/R003815/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "7/12/2017",
+   "RC Gross Amount": 33890.11
+ },
+ {
+   "key": 67,
+   "Classification Name": "Newton",
+   "Grant Reference": "ES/N01913X/2",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "18/12/2017",
+   "RC Gross Amount": 36295.8
+ },
+ {
+   "key": 68,
+   "Classification Name": "GCRF",
+   "Grant Reference": "ES/N015665/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "18/12/2017",
+   "RC Gross Amount": 40637.17
+ },
+ {
+   "key": 69,
+   "Classification Name": "GCRF",
+   "Grant Reference": "AH/P014577/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "8/3/2018",
+   "RC Gross Amount": 29320.8
+ },
+ {
+   "key": 70,
+   "Classification Name": "GCRF",
+   "Grant Reference": "BB/P022588/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Due",
+   "Payment Date": "",
+   "RC Gross Amount": 33831.22
+ },
+ {
+   "key": 71,
+   "Classification Name": "GCRF",
+   "Grant Reference": "AH/R006059/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "7/12/2017",
+   "RC Gross Amount": 84354.62
+ },
+ {
+   "key": 72,
+   "Classification Name": "GCRF",
+   "Grant Reference": "BB/R005397/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "14/12/2017",
+   "RC Gross Amount": 142134.5
+ },
+ {
+   "key": 73,
+   "Classification Name": "Newton",
+   "Grant Reference": "BB/N013689/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "14/12/2017",
+   "RC Gross Amount": 71405.03
+ },
+ {
+   "key": 74,
+   "Classification Name": "GCRF",
+   "Grant Reference": "ES/N015126/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "18/12/2017",
+   "RC Gross Amount": 60611.74
+ },
+ {
+   "key": 75,
+   "Classification Name": "GCRF",
+   "Grant Reference": "BB/R005338/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "14/12/2017",
+   "RC Gross Amount": 146760.05
+ },
+ {
+   "key": 76,
+   "Classification Name": "GCRF",
+   "Grant Reference": "EP/P029582/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "11/12/2017",
+   "RC Gross Amount": 97222.24
+ },
+ {
+   "key": 77,
+   "Classification Name": "Newton",
+   "Grant Reference": "EP/R003998/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "11/12/2017",
+   "RC Gross Amount": 12850.29
+ },
+ {
+   "key": 78,
+   "Classification Name": "Newton",
+   "Grant Reference": "BB/N013697/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "14/12/2017",
+   "RC Gross Amount": 27107.66
+ },
+ {
+   "key": 79,
+   "Classification Name": "GCRF",
+   "Grant Reference": "EP/P029558/1",
+   "Payment Quarter Display Value": "2017/18 Q3",
+   "Payment Status": "Paid",
+   "Payment Date": "11/12/2017",
+   "RC Gross Amount": 128397.71
+ }
+]
